@@ -27,7 +27,7 @@ The decisive edge was reading the EDA before choosing a representation, then let
 
 ## How to run
 
-⚠️ The competition dataset (`train.csv` / `test.csv` / `sample_submission.csv`) is not included.
+⚠️ The competition dataset (`train.csv`, `test.csv`, and `sample_submission.csv`) is not included. Place all three files under a `data/` folder and update the paths in the notebook accordingly.
 
 ```
 pip install numpy pandas matplotlib seaborn scikit-learn jupyter torch transformers
