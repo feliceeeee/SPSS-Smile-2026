@@ -3,6 +3,8 @@
 A sentiment classification project built for **SMILE Competition 2026**, themed *"Profiting from Chaos: Finding Signal in a Reality."* The task: classify Indonesian economic, financial, and business news headlines into **POSITIF**, **NETRAL**, or **NEGATIF**, scored on Kaggle leaderboard (Macro F1) plus notebook quality.
 
 **Result: 5th place out of 19 teams**, competing as **Team BITin BYTE**.
+<img width="1367" height="731" alt="image" src="https://github.com/user-attachments/assets/f15a6be0-41d5-4ccb-af7c-329eeb65db52" />
+
 
 ## The approach
 
